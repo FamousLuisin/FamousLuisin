@@ -7,7 +7,7 @@
 
 <div>
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FamousLuisin&theme=radical&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FamousLuisin&theme=radical&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact&langs_count=6">
   </a>
 </div>
 
@@ -18,6 +18,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 </div>
 
 ##
